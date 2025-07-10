@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pnfaria
-- 👀 I’m an academic focusing on Applied Statistics, specially Multavariate Analysis
-- 🌱 I’m currently teaching Exploratory Data Analyisis for Big Data
+- 👀 As an academic, my areas of focus include Applied Statistics, Learning Analytics, and research within STEM fields. 
+- 🌱 I’m currently teaching Exploratory Data Analyisis for Big Data at NCSU 
 - 📫 How to reach me: https://www.linkedin.com/in/priscila-neves-faria
 
 <!---
